@@ -6,7 +6,7 @@ This project is a 🌐 grid shader built with **React Three Fiber**, **Three.js 
 
 ## 📸 Preview
 
-### 🎞️ Animated Preview
+### 🎞️ Preview
 ![Grid Shader in Action](./screenshots/thegif.gif)
 
 ### 🖼️ Screenshot
